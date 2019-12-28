@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4fd7fbf-53cd-4fcd-8d8f-dd2ee13f87e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataframe_styles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyinstaller_example.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/jordan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/jordan.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -66,16 +67,41 @@
       <option name="presentableId" value="Default" />
       <updated>1577493666056</updated>
     </task>
+    <task id="LOCAL-00001" summary="added .gitignore for venv etc.">
+      <created>1577495980488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577495980488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added .gitignore for venv etc." />
+    <option name="LAST_COMMIT_MESSAGE" value="added .gitignore for venv etc." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="91" key="#Notifications" timestamp="1577496069827">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="320" y="91" key="#Notifications/0.23.1440.805@0.23.1440.805" timestamp="1577496069827" />
     <state x="407" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577495902785">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state x="407" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.805@0.23.1440.805" timestamp="1577495902785" />
-    <state x="220" y="67" key="SettingsEditor" timestamp="1577494539263">
-      <screen x="0" y="23" width="1440" height="810" />
+    <state x="344" y="26" key="CommitChangelistDialog2" timestamp="1577495980318">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
+    <state x="344" y="26" key="CommitChangelistDialog2/0.23.1440.805@0.23.1440.805" timestamp="1577495980318" />
+    <state x="220" y="67" key="SettingsEditor" timestamp="1577496168337">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="220" y="67" key="SettingsEditor/0.23.1440.805@0.23.1440.805" timestamp="1577496168337" />
     <state x="220" y="67" key="SettingsEditor/0.23.1440.810@0.23.1440.810" timestamp="1577494539263" />
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577495985507">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.805@0.23.1440.805" timestamp="1577495985507" />
   </component>
 </project>
