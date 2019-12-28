@@ -3,7 +3,7 @@ from pandas import (DataFrame
                     )
 
 
-# green = positive values, red = negative values
+# df with green = positive values, red = negative values
 def color_negative_red(x):
     if isinstance(x, float):
         if x < 0:
@@ -47,7 +47,6 @@ def main():
             )
 
     # or this one
-
     df2 = DataFrame()
     df2_floats = df2.select_dtypes(float).columns
     html2 = (df2.style.applymap(style_df)
@@ -55,11 +54,11 @@ def main():
                       .set_table_styles([{'selector': 'th, td',
                                          'props': [('padding-top', '2px'),
                                                    ('padding-bottom', '2px'),
-                                                    ('padding-right', '5px'),
+                                                   ('padding-right', '5px'),
                                                    ('padding-left', '5px'),
-                                                    ('text-align', 'left'),
-                                                    ('border', '1px solid #ccc'),
-                                                    ],
+                                                   ('text-align', 'left'),
+                                                   ('border', '1px solid #ccc'),
+                                                   ],
                                           },
                                          {'selector': 'tbody',
                                           'props': [('border-collapse', 'collapse')]
