@@ -13,7 +13,7 @@ oauthlib==3.1.0
 pandas==0.25.3
 pbr==5.4.4
 pycparser==2.19
-PyInstaller==3.5
+PyInstaller==3.6
 PyJWT==1.7.1
 pyodbc==4.0.28
 python-dateutil==2.8.1
